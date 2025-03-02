@@ -14,7 +14,8 @@ This repository contains Solidity smart contracts for the **PumpContract** proje
 ### Deploying the Contract
 1. Go to the **Deploy & Run Transactions** tab in Remix.
 2. Select the desired environment (e.g., Injected Provider for MetaMask).
-3. Click **Deploy**.
+3. Best to use a testchain(e.g. Monad testnet)
+4. Click **Deploy**.
 
 ### Interacting with the Contract
 - 
