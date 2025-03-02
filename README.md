@@ -1,4 +1,4 @@
-# MonadIsFun
+# PumpContract
 
 This repository contains Solidity smart contracts for the **PumpContract** project.
 
