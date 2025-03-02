@@ -3,7 +3,7 @@
 This repository contains Solidity smart contracts for the **PumpContract** project.
 
 ## Contracts
-- `Pump.sol`: The main smart contract for the MonadIsFun project.
+- `Pump.sol`: The main smart contract for the PumpContract project.
 
 ## Usage
 ### Compiling the Contract
