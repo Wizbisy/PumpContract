@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "PumpMessage",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "pump",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Pump.sol": "PumpContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Pump.sol": {
+			"keccak256": "0x72e320901fe81647c16c923f0736dc7d243315ccc87baa10e5f125d62705ce80",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://285cd67be954af56ac185375b7f0f693da407456ce7aeb60bcf06d1b2fd132da",
+				"dweb:/ipfs/QmSBDGte4H6XdCbKKL9G2RDYgdmv3guwzeYnsb8Sjf19gN"
+			]
+		}
+	},
+	"version": 1
+}
